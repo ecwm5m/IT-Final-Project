@@ -3,4 +3,4 @@
 
 Hi, My name is Elijah Woods and this is my final for IT 1000
 
-[next page](page1)
+[next page](Page1)

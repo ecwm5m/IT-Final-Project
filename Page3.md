@@ -21,6 +21,13 @@
 **Favorite Music Artist:**
 >Lil Uzi Vert
 >
+**Favorite Brand:**
+>Nike
+>
+**Favorite Console:**
+>Playstation 4
+>
+
 
 
 

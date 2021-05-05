@@ -25,6 +25,13 @@
 >As a kid I always had that basic enjoyment of TV from shows like spongebob and such. They were just a fun way to pass time. Now I can appreciate TV for the artistic elemements, characters and their development, and the emotional investment. I started watching anime in 2019 and it is dfeinitely a choice I don't regret. In my opinion I find anime to be more entertaining and emotionally investing than regular TV, and they really know how to immerse you in the worlds that they build. AT this point I may be what some call a _weeb_.
 >
 
+**Shoe Collecting:**
+>This is something that I have only just recently gotten into, but I really only got into fashion/clothes in high school but now as I've gotten older I have the ability to buy the things that I want and shoes are things that I enjoy buying and wearing.
+>
+
+**Recreational Sports:**
+>I've always been pretty athletic and enjoyed playing sports. This is most likely because I am a competitive person so playing sports allows me to be competitive and have fun at the same time
+>
 
 
 

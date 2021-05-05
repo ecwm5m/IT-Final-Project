@@ -1,4 +1,4 @@
-##Favorites
+## Favorites
 
 **Favorite Food:** 
 >Burgers or Pizza 

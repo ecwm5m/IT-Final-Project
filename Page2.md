@@ -13,8 +13,9 @@
 
 **Listening to Music:**
 >Out of all my hobbies this is the one that I do the most. Most of the time on any given day I will have my headphones in listening to music. No matter what mood I'm in, happy, sad, angry, etc, I can always find myself listening to music. It's like my escape from reality so to speak.
+![spotify](https://www.scdn.co/i/_global/twitter_card-default.jpg)
 
 
 
-[Previous Page](Page1.md)
-[Next Page](Page3.md)
+[Previous Page](Page1.md)  
+[Next Page](Page3.md)  

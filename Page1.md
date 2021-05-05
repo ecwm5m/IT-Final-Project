@@ -5,4 +5,4 @@
 >I am 18 years old and currently a sophomore at the University of Missouri.
 >
 
-[Previous Page](README.md)  [Next Page](Page2.md)
+[Previous Page](README.md)                                            [Next Page](Page2.md)

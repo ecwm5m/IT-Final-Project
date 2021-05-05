@@ -28,6 +28,7 @@
 **Shoe Collecting:**
 >This is something that I have only just recently gotten into, but I really only got into fashion/clothes in high school but now as I've gotten older I have the ability to buy the things that I want and shoes are things that I enjoy buying and wearing.
 >
+![Nike Logo](https://www.festisite.com/static/partylogo/img/logos/nike.png)  
 
 **Recreational Sports:**
 >I've always been pretty athletic and enjoyed playing sports. This is most likely because I am a competitive person so playing sports allows me to be competitive and have fun at the same time

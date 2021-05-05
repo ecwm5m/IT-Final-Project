@@ -3,7 +3,9 @@
 
 Hi, My name is Elijah Woods and this is my final for IT 1000
 
-In this project I will share some information about myself including:
+In this project I will share some information about myself.
+
+**Summary:**
 * General Info
 * Hobbies
 * Favorites

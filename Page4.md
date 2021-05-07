@@ -1,13 +1,13 @@
 ##Some Code For Fun
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Fizz Buzz</title>
-<script>
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<meta charset="UTF-8">
+	<title>Fizz Buzz</title>
+	<script>
 
-function fizzbuzz() {
+	function fizzbuzz() {
 	var display = document.getElementById('display');
 	var displayHTML = "";
 	for (i = 1; i <= 100; i++) {
@@ -22,19 +22,18 @@ function fizzbuzz() {
     }
 	}
 	
-}
+	}
+	</script>
 
-</script>
+	</head>
 
-</head>
+	<body onload="fizzbuzz()">
+	<div id="display">
 
-<body onload="fizzbuzz()">
-<div id="display">
+	</div>
+	</body>
 
-</div>
-</body>
-
-</html>
+	</html>
 
 
 [Previous Page](Page3.md)  

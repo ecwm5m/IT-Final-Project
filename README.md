@@ -9,7 +9,6 @@ In this project I will share some information about myself.
 * General Info
 * Hobbies
 * Favorites
-* Fun Facts
 * Code I Created
 
 

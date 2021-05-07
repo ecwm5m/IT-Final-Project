@@ -1,4 +1,4 @@
-##Some Code For Fun
+##Some Code For Fun  
 **FizzBuzz Solution:**
 
 	<!DOCTYPE html>

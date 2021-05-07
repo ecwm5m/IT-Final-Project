@@ -6,6 +6,7 @@
 **Favorite Show:**  
 >Naruto or South Park
 >
+![Naruto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjf4cWS0OlbWZl28axnM_hFIvhqEK3ITcSHw&usqp=CAU)  
 **Favorite Movie:**  
 >Scott Pilgrim Vs The World
 >

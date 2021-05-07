@@ -13,7 +13,7 @@ I am from the southwest of Chicago, Illinois, the Ashburn neighborhood, and have
 
 **Education:**  
 For K-8th grade I attended a local public school which was named after the neighborhood, _Ashburn elemntary school_.  
-From there I attended [Lindblom Math and Science Academy](https://lindblomeagles.org/) for highschool until I graduated in 2019.  
+From there I attended [_Lindblom Math and Science Academy_](https://lindblomeagles.org/) for highschool until I graduated in 2019.  
 As of the year 2021 I am a sophomore at the _University of Missouri_ majoring in IT.  
 
 

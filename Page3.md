@@ -10,6 +10,7 @@
 **Favorite Movie:**  
 >Scott Pilgrim Vs The World
 >
+![Scott Pilgrim](https://i.ytimg.com/vi/WZluJY1dxmg/movieposter.jpg)  
 **Favorite Place to go:**
 >Six Flags
 >
@@ -22,6 +23,7 @@
 **Favorite Music Artist:**
 >Lil Uzi Vert
 >
+![Lil Uzi Vert](https://images.genius.com/3500c0d7e96a43b64842611afb58e660.1000x1000x1.png)
 **Favorite Brand:**
 >Nike
 >

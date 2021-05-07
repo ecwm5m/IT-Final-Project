@@ -1,7 +1,6 @@
-![download](https://user-images.githubusercontent.com/77852069/117490415-5ab67800-af34-11eb-8f18-bfae7b474e2f.png)
 ## General Info
 
-![Chicago Flag](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnNgQx2rIwZ-8VTvWcBbBrjbzzpb6whg80dw&usqp=CAU)
+![Chicago Flag](https://user-images.githubusercontent.com/77852069/117490415-5ab67800-af34-11eb-8f18-bfae7b474e2f.png)
 
 
 **Background:**

@@ -4,11 +4,11 @@
 >Burgers or Pizza 
 >   
 **Favorite Show:**  
->Naruto or South Park
+>_Naruto_ or _South Park_
 >
 ![Naruto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjf4cWS0OlbWZl28axnM_hFIvhqEK3ITcSHw&usqp=CAU)  
 **Favorite Movie:**  
->Scott Pilgrim Vs The World
+>_Scott Pilgrim Vs The World_
 >
 ![Scott Pilgrim](https://i.ytimg.com/vi/WZluJY1dxmg/movieposter.jpg)  
 **Favorite Place to go:**

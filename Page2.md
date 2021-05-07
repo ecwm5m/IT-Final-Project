@@ -26,7 +26,7 @@
 >
 
 **Shoe Collecting:**
->This is something that I have only just recently gotten into, but I really only got into fashion/clothes in high school but now as I've gotten older I have the ability to buy the things that I want and shoes are things that I enjoy buying and wearing.
+>This is something that I have only just _recently_ gotten into, but I really only got into fashion/clothes in high school but now as I've gotten older I have the ability to buy the things that I want and shoes are things that I enjoy buying and wearing.
 >
 ![Nike Logo](https://www.festisite.com/static/partylogo/img/logos/nike.png)  
 
